@@ -31,7 +31,7 @@ Current job openings:
 4. Second interview: formal meeting with a founder and/or someone from the team to validate cultural fit and technical skills.
 5. References: you'll be asked to send a list of 3 references to us.
 6. Chat with CEO: informal meeting with the CEO to validate the references and to discuss any other relevant details.
-7. Job Offer: we'll get in touch with the job offer.
+7. Job Offer: we will send you the job offer.
 8. Congratulations, you are hired!
 
 ## How to apply?
