@@ -1,5 +1,5 @@
 # bem.te.vi's Full-Stack Software Engineer Position
-Got interested in the job? Here you'll find a full description of the role.
+Here you'll find a full description of the role.
 
 Before you continue, keep in mind that in bem.te.vi we believe in the true Full-Stack Developer.
 

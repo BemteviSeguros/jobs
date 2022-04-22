@@ -1,14 +1,12 @@
-# bem.te.vi's Software Engineering Job Opportunities
+# bem.te.vi's Software Engineering Jobs
 
 ## What is bem.te.vi?
 We are an Insurtech startup focused on housing insurance and credit insurance products.
 
-Got interested in Insurtechs? [Read more about the future of the insurance business](https://openinsurance.susep.gov.br/).
+[Read more about the future of the insurance business](https://openinsurance.susep.gov.br/).
 
-## Open positions (all remote)
-Currently, we are focusing on hiring Full-Stack Software Engineers of any level.
-
-More details below:
+## Open positions (all remote/any level)
+Current job openings:
 
 - [Full-Stack Software Engineer](https://github.com/BemteviSeguros/jobs/blob/main/Full-Stack-Software-Engineer.md)
 
@@ -19,7 +17,7 @@ More details below:
 - Health Insurance
 - Life Insurance
 - Dental Plan
-- [Beer of Coffee](https://beerorcoffee.com/): worldwide coworking pass
+- [Beer or Coffee](https://beerorcoffee.com/): worldwide coworking pass
 - Remote working
 - 30 days of paid vacation
 - 15 days of paternity leave or 6 months of maternity leave
@@ -27,13 +25,13 @@ More details below:
 - [Zenklub](https://zenklub.com.br/): mental health support
 
 ## Hiring process steps
-1. Get in touch and apply
-2. First interview
-3. Business Case/Challenge
-4. Second interview
-5. References
-6. Chat with CEO
-7. Job Offer
+1. Get in touch and apply: follow the "How to apply" section below.
+2. First interview: it's just an informal meeting in order to get to know each other.
+3. Business Case/Challenge: you'll be asked to explain any previous experience you had that you consider important for your career or you'll be asked to do a code challenge (more details on the job description page).
+4. Second interview: formal meeting with a founder and/or someone from the team to validate cultural fit and technical skills.
+5. References: you'll be asked to send a list of 3 references to us.
+6. Chat with CEO: informal meeting with the CEO to validate the references and to discuss any other relevant details.
+7. Job Offer: we'll get in touch with the job offer.
 8. Congratulations, you are hired!
 
 ## How to apply?
