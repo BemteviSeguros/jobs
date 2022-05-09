@@ -54,5 +54,7 @@ One of the steps of our hiring process is to show us a business case or to devel
 
 You won't be alone on that journey. In fact, it would be better if you reach out to our team to discuss your idea and get help in the development.
 
+More information about the challenge [here](https://github.com/BemteviSeguros/jobs/blob/main/Full-Stack-Challenge.md).
+
 ## Still not confident?
 Reach out anyway and we'll be happy to help you.
