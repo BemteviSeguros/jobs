@@ -23,6 +23,7 @@ The Full Stack Challenge is just a full stack web app (backend + frontend) with 
 - [ ] [Storybook](https://storybook.js.org/)
 - [ ] [GraphQL Playground](https://github.com/graphql/graphql-playground)
 - [ ] deploy (Vercel? Netlify? Heroku? AWS?)
+- [ ] CI/CD (GitHub Actions, CircleCI etc)
 - [ ] ask for help and for code review during the development
 
 ## Questions & Help
