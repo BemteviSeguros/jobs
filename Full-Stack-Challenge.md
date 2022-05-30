@@ -18,7 +18,7 @@ The Full Stack Challenge is just a full stack web app (backend + frontend) with 
 ### Bonus & Extras
 - [ ] open-sourced on your GitHub
 - [ ] automated tests: [Jest](https://jestjs.io/) + [react-testing-library](https://testing-library.com/)
-- [ ] good design (bonus if using a design system)
+- [ ] good design (bonus if using a design system, like [antd](https://ant.design/))
 - [ ] authentication system
 - [ ] [Storybook](https://storybook.js.org/)
 - [ ] [GraphQL Playground](https://github.com/graphql/graphql-playground)
