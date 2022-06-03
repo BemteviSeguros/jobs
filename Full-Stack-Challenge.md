@@ -28,3 +28,8 @@ The Full Stack Challenge is just a full stack web app (backend + frontend) with 
 
 ## Questions & Help
 If you have any questions or need any help reach out and we gonna assist you.
+
+## Support Material
+- [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.com/edge-coders/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
+- [@jgcmarins](https://github.com/jgcmarins)[ talk about the stack](https://www.infoq.com/br/presentations/the-golden-stack/)
+- [@jgcmarins](https://github.com/jgcmarins)[ talk slides](https://jgcmarins.github.io/the-golden-stack/)
