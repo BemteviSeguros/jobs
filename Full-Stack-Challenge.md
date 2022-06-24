@@ -33,3 +33,5 @@ If you have any questions or need any help reach out and we gonna assist you.
 - [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.com/edge-coders/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
 - [@jgcmarins](https://github.com/jgcmarins)[ talk about the stack](https://www.infoq.com/br/presentations/the-golden-stack/)
 - [@jgcmarins](https://github.com/jgcmarins)[ talk slides](https://jgcmarins.github.io/the-golden-stack/)
+- [dogcode - Relay Modern  do Zero e na Prática](https://youtu.be/lXLiSLmhlMU)
+- [dogcode - Construindo uma API NodeJS com GraphQl](https://youtu.be/yRni-IPRn90)
