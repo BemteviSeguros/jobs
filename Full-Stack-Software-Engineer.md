@@ -52,8 +52,8 @@ It's not a requirement to have previous experience with any of them, but if you 
 - [AWS](https://aws.amazon.com/)
 - [GitHub Actions](https://github.com/features/actions)
 
-## Business case and/or Challenge
-One of the steps of our hiring process is to show us a business case or to develop a full-stack application that matches most of the requirements listed above.
+## Challenge
+One of the steps of our hiring process is to show us that you know how to develop a full-stack application that matches most of the requirements listed above.
 
 You won't be alone on that journey. In fact, it would be better if you reach out to our team to discuss your idea and get help in the development.
 
