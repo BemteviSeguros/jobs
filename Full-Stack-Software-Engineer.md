@@ -41,6 +41,7 @@ It's not a requirement to have previous experience with any of them, but if you 
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/)
+- [Python](https://www.python.org/)
 - [React](https://reactjs.org/)
 - [GraphQL](https://graphql.org/)
 - [Relay](https://relay.dev/)
