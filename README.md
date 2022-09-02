@@ -27,7 +27,7 @@ Current job openings:
 ## Hiring process steps
 1. Get in touch and apply: follow the "How to apply" section below.
 2. First interview: it's just an informal meeting in order to get to know each other.
-3. Challenge: you'll be asked to do a [Full Stack Code Challenge](https://github.com/BemteviSeguros/jobs/blob/main/Full-Stack-Challenge.md).
+3. Challenge: you'll be asked to do a [Full Stack Code Challenge](https://github.com/BemteviSeguros/jobs/blob/main/Challenge.md).
 4. Second interview: formal meeting with a founder and/or someone from the team to validate cultural fit and technical skills.
 5. References: you'll be asked to send a list of 3 references to us.
 6. Chat with CEO: informal meeting with the CEO to validate the references and to discuss any other relevant details.
