@@ -11,7 +11,7 @@ The Full Stack Challenge is just a full stack web app (backend + frontend) with 
 - [ ] it should support GraphQL Mutations
 
 ### Frontend
-- [ ] it should be a [React](https://reactjs.org/) Web App with [Realy](https://relay.dev/)
+- [ ] it should be a [React](https://reactjs.org/) Web App with [Relay](https://relay.dev/)
 - [ ] it should support GraphQL Queries with Relay
 - [ ] it should support GraphQL Mutations with Relay
 
