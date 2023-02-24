@@ -1,3 +1,5 @@
+check out our latest [video](https://www.youtube.com/watch?v=zPosRnYrxag) about Data Science at bem.te.vi
+
 # bem.te.vi's Software Engineering Jobs
 
 ## What is bem.te.vi?
