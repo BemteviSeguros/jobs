@@ -1,37 +1,39 @@
-# Full Stack Challenge
+# Full-stack Challenge
 
-The Full Stack Challenge is just a full stack web app (backend + frontend) with the following requirements:
+The Full-stack Challenge is to create any CRUD web application (backend + frontend) with the following requirements:
 
-## Simple Web App CRUD using GraphQL + Relay
+## Simple Web App CRUD using Remix and Hono
 
 ### Backend
-- [ ] it should be a [GraphQL](https://graphql.org/) Server using [Node.js](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/)
-- [ ] it should connect to a database ([MongoDB](https://www.mongodb.com/) or [PostgreSQL](https://www.postgresql.org/))
-- [ ] it should support GraphQL Queries
-- [ ] it should support GraphQL Mutations
+
+- [ ] It should be a [Hono](https://hono.dev/) Server using [Node.js](https://nodejs.org/en/) with [TypeScript](https://www.typescriptlang.org/).
+- [ ] It should connect to a [PostgreSQL](https://www.postgresql.org/) database.
+- [ ] It should include a basic authentication system with sign in and sign up (JWT, session-based, etc.).
+- [ ] It should support requests to create a new record.
+- [ ] It should support requests to read existing records.
+- [ ] It should support requests to update existing records.
+- [ ] It should support requests to delete existing records.
 
 ### Frontend
-- [ ] it should be a [React](https://reactjs.org/) Web App with [Relay](https://relay.dev/)
-- [ ] it should support GraphQL Queries with Relay
-- [ ] it should support GraphQL Mutations with Relay
+
+- [ ] It should be a [Remix](https://remix.run/) Web App with [TypeScript](https://www.typescriptlang.org/).
+- [ ] It should use Remix loaders and actions.
+- [ ] It should include a basic authentication system with sign in and sign up (JWT, session-based, etc.).
+- [ ] It should have a page for creating new records.
+- [ ] It should have a page for reading existing records.
+- [ ] It should have a page for updating existing records.
+- [ ] It should have a page for deleting existing records.
 
 ### Bonus & Extras
-- [ ] open-sourced on your GitHub
-- [ ] automated tests: [Jest](https://jestjs.io/) + [react-testing-library](https://testing-library.com/)
-- [ ] good design (bonus if using a design system, like [antd](https://ant.design/))
-- [ ] authentication system
-- [ ] [Storybook](https://storybook.js.org/)
-- [ ] [GraphQL Playground](https://github.com/graphql/graphql-playground)
-- [ ] deploy (Vercel? Netlify? Heroku? AWS?)
-- [ ] CI/CD (GitHub Actions, CircleCI etc)
-- [ ] ask for help and for code review during the development
+
+- [ ] Open-sourced on your GitHub.
+- [ ] Automated tests with [Vitest](https://vitest.dev/) and [react-testing-library](https://testing-library.com/).
+- [ ] Basic design system using [React Aria Components](https://react-spectrum.adobe.com/react-aria/) and [Panda CSS](https://panda-css.com/).
+- [ ] API documentation using [OpenAPI](https://www.openapis.org/) and [Scalar](https://github.com/scalar/scalar).
+- [ ] Deployment (Vercel, Netlify, Heroku, AWS, etc.).
+- [ ] CI/CD (GitHub Actions, CircleCI, etc.).
+- [ ] Ask for help and for code review during the development.
 
 ## Questions & Help
-If you have any questions or need any help reach out and we gonna assist you.
 
-## Support Material
-- [REST APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.com/edge-coders/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
-- [@jgcmarins](https://github.com/jgcmarins)[ talk about the stack](https://www.infoq.com/br/presentations/the-golden-stack/)
-- [@jgcmarins](https://github.com/jgcmarins)[ talk slides](https://jgcmarins.github.io/the-golden-stack/)
-- [dogcode - Relay Modern do Zero e na Prática](https://youtu.be/lXLiSLmhlMU)
-- [dogcode - Construindo uma API NodeJS com GraphQL](https://youtu.be/yRni-IPRn90)
+If you have any questions or need any help, reach out and we will assist you.
