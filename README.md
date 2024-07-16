@@ -3,7 +3,7 @@ check out our latest [video](https://www.youtube.com/watch?v=zPosRnYrxag) about 
 # bem.te.vi's Software Engineering Jobs
 
 ## What is bem.te.vi?
-We are an Insurtech startup focused on housing insurance and credit insurance products.
+We are an Insurtech startup that offers several insurance products through an embedded insurance model as a distribution channel for B2B & B2B2C companies in Brazil.  
 
 [Read more about the future of the insurance business](https://openinsurance.susep.gov.br/).
 
