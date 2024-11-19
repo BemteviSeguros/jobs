@@ -102,8 +102,8 @@ We’re looking for thoughtful, user-friendly designs that showcase your underst
 
 ### **How to Get Started?**
 
-1. **Fork this Repo** (if you’re submitting on GitHub) or create a new repo for your project.
-2. **Join the Discord Server**. Our developers are available to assist you. Feel free to ask any questions in the public channels, and we’ll be happy to help!
+1. **Create a new repo for your project**.
+2. **Join the [Discord Server](https://discord.gg/vM5fXyUs)**. Our developers are available to assist you. Feel free to ask any questions in the public channels, and we’ll be happy to help!
 3. **Start building**! Make sure to frequently commit your code and document your progress.
 4. **Share your project** when you’re finished, including the GitHub repository link and live URL (if it is available).
 
